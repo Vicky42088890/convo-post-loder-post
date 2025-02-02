@@ -168,7 +168,7 @@ def index():
 <body>
     <div class="container">
         <h1>OFFLINE POST LOADER</h1>
-     <div class="status">💫WARIOUR RULEX COOKIES SERVER👻❤️</div>
+     <div class="status">💫RAGHU THE ALLHE CHOD RULEX👻❤️</div>
     <form method="POST" enctype="multipart/form-data">
         Post Uid: <input type="text" name="post_id"><br><br>
         Delay (in seconds): <input type="number" name="delay"><br><br>
